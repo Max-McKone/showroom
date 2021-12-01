@@ -5,3 +5,4 @@ Future features include:
 
   - Controller and movement support
   - Embeded Showroom in website
+  - Virtual Gift Shop and furniture

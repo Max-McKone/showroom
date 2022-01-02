@@ -7,3 +7,4 @@ Future features include:
   - Embeded Showroom in website
   - Virtual Gift Shop and furniture
   - Skybox change
+  - AR and possible WASD simulation for web integretion

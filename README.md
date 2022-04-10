@@ -1,2 +1,2 @@
 # Showroom
-VR showroom for art display
+VR showroom for art display.
